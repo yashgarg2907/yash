@@ -10,5 +10,12 @@ char2="java"
 char3=char1
 char1=char2
 char2=char3
-#print(f"char1={char1} char2={char2}")
+print(f"char1={char1} char2={char2}")
+#
+n1=200
+char2="java"
+n3=n1
+n1=char2
+char2=n3
+print(f"n1={n1} char2={char2}")
 
