@@ -1,0 +1,11 @@
+#
+name = "python"
+total=0
+size=len (name)
+for i in range(size):
+    if i in  range(0,6):
+       total=total+i
+    print(i)
+print("total=", total)
+
+

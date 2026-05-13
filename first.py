@@ -18,4 +18,17 @@ n3=n1
 n1=char2
 char2=n3
 print(f"n1={n1} char2={char2}")
+#
+student_name= "aman kumar"
+student_address]3   
+#
+a=10
+a=a=10
 
+#
+num1=3
+num2=9
+num3=12
+if num1<num2<num3
+print("largest")
+print ("smallest")
