@@ -1,11 +1,17 @@
-#
-name = "python"
-total=0
-size=len (name)
-for i in range(size):
-    if i in  range(0,6):
-       total=total+i
-    print(i)
-print("total=", total)
+# #
+# name = "python"
+# total=0
+# size=len (name)
+# for i in range(size):
+#     if i in  range(0,6):
+#        total=total+i
+#     print(i)
+# print("total=", total)
 
+# wap to print the fractional from 1 to 8 .
 
+num=int(input("enter the number:"))
+factorisal=1
+for i in range (1,num+1):
+    factorisal=factorisal * i
+    print("factorisal=",factorisal)
